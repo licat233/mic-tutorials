@@ -1,0 +1,7 @@
+# AI麦可功能介绍_11. 产品发布-智能排版
+
+language=zh
+language_probability=1.000
+model=tiny
+
+[未识别到口播内容]

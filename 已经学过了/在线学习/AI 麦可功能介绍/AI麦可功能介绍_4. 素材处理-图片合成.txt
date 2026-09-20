@@ -1,0 +1,7 @@
+# AI麦可功能介绍_4. 素材处理-图片合成
+
+language=zh
+language_probability=1.000
+model=tiny
+
+[未识别到口播内容]

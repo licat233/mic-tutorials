@@ -1,0 +1,769 @@
+分类: 操作指南
+子分类: 更多服务
+标题: 认证报告PLUS实力标签说明
+链接: https://service.made-in-china.com/help/guide/services/15098.htm
+============================================================
+
+消息
+×
+loading..
+x
+消息
+loading..
+x
+外贸e家
+Sign In
+For Buyer
+For Supplier
+ 0
+ Get Apps 
+English
+首页平台动态外贸资讯商家成长帮助中心外贸市场在线学习全球落地服务
+搜索
+新手上路
+推广一日通（高级会员）
+推广一日通（免费会员）
+操作指南
+Virtual Office
+商机管理
+营销推广
+网站建设
+在线交易
+国际物流
+会员服务
+账户中心
+AI麦可
+更多服务
+平台规则
+内容发布规则
+禁限售规则解读
+公示公告
+知识产权规则
+贸易纠纷规则
+推广技巧
+让买家搜到我
+让买家点击我
+让买家中意我
+让询盘跟进更轻松
+让账号信息更安全
+让网络推广更简单
+供应商星级提升攻略
+彰显企业实力和产品竞争力
+经验分享
+榜单指南
+常见问题
+关于中国制造网
+登录与安全
+账号与设置
+询盘与买家
+推广与广告
+Trade Messenger
+认证服务常见问题
+防诈骗攻略
+常用文档下载
+外贸e家
+帮助中心
+操作指南
+更多服务
+认证报告PLUS实力标签说明
+认证报告PLUS实力标签说明
+
+类别
+
+	
+
+实力标签
+
+	
+
+标签辅助说明（对买家展示）
+
+	
+
+标签条件（源自认证报告PLUS）
+
+
+
+
+综合实力（Comprehensive strength）
+
+	
+
+Importers and Exporters
+
+	
+
+The supplier has import and export rights
+
+	
+
+Does the company have a valid Import and Export license
+该项值为Yes
+
+
+
+
+High Repeat Buyers Choice
+
+	
+
+More than 50% of buyers repeatedly choose the supplier
+
+	
+
+Repeat Buyers Choice
+该项值>=50%
+
+
+
+
+Cooperated with Fortune 500
+
+	
+
+This supplier has Cooperated with Fortune 500 companies
+
+	
+
+Cooperated with Fortune 500
+该项的值为：yes
+
+
+
+
+Years of Export Experience
+
+	
+
+The export experience of the supplier is more than 10 years
+
+	
+
+Export experience
+该项值>=10
+
+
+
+
+Multi-language Pioneer
+
+	
+
+【贵司擅长的语种数量】 languages freely used by foreign trade staff. include:【贵司擅长的语种清单】
+
+	
+
+The language freely used by foreign trade staff
+该项值包含的语种数量>=2（含英语）
+
+
+
+
+Experienced Team
+
+	
+
+The supplier has 【贵司外贸员工数】 foreign trading staff(s) and 【贵司6年以上经验外贸员工数】 staff(s) with over 6 years of overseas trading experience
+
+	
+
+The number of foreign trading staff with relevant trading experience
+1、外贸人员总数不少于5
+2、经验>=6年的外贸人员不少于2
+
+
+
+
+Self-branded
+
+	
+
+The supplier has 【贵司自有品牌数】 Self-brands, check the Audit Report for more information
+
+	
+
+Own brand name不为空
+Own brand quantities > 0
+
+
+或
+
+Trademark information不为空
+
+
+
+
+
+
+
+
+Patents Awarded
+
+	
+
+The supplier had awarded 【贵司获得专利数】 patents, you can check the Audit Report for more information
+
+	
+
+Patent Situation至少填写一组
+
+
+
+
+Exhibition experience
+
+	
+
+The supplier had participated in offline trade shows, you can check the Audit Report for more information
+
+	
+
+Have you participated in offline trade shows?
+该项的值为：yes
+
+
+
+
+National Award received
+
+	
+
+This supplier has received national award, you can check the Audit Report for more information
+
+	
+
+Does the company receive a national award?
+以下两项中，任意一项被勾选：
+Internationally recognized design awards
+National Science and Technology Progress Award
+
+
+
+
+服务能力（Service Capability）
+
+	
+
+In-stock Capacity
+
+	
+
+The supplier has In-stock capacity
+
+	
+
+Do you have In-stock capacity?
+该项的值为：yes
+
+
+
+
+Fast Delivery
+
+	
+
+The supplier can deliver the goods within 【贵司最快发货天数】 days
+
+	
+
+Average lead time (Peak Season)
+该项的勾选为： within 15 workdays 或者 one month
+
+
+
+
+Overseas Warehouse
+
+	
+
+The supplier has overseas warehouse(s)
+
+	
+
+Do you have an overseas warehouse?
+该项的值为：yes
+
+
+
+
+Overseas Showroom
+
+	
+
+The supplier has overseas showroom(s)
+
+	
+
+Do you have an overseas showroom?
+该项的值为：yes
+
+
+
+
+Overseas Agent/Branch
+
+	
+
+The supplier has overseas agent/branch(s)
+
+	
+
+Do you have an overseas agent/branch?
+该项的值为：yes
+
+
+
+
+Low MOQ
+
+	
+
+The MOQ for the supplier's products is 1
+
+	
+
+Minimum order quantity
+该项的值为：1
+
+
+
+
+Overseas Services
+
+	
+
+The supplier provides overseas services and supports countries including 【贵司提供海外服务的国家清单】.
+Overseas service content includes 【贵司提供海外服务的内容清单】
+
+	
+
+Overseas services countries
+选项项为：yes
+The content of overseas services provided
+含有值
+
+
+
+
+
+Customization from Samples
+
+	
+
+The supplier provides sample based customization services
+
+	
+
+What design services are provided?
+Customization from Samples项的值被勾选
+
+
+
+
+Customization from Designs
+
+	
+
+The supplier provides design based customization services
+
+	
+
+What design services are provided?
+Customization from Designs项的值被勾选
+
+
+
+
+Full Customization
+
+	
+
+The supplier provides full customization services
+
+	
+
+What design services are provided?
+Full Customization项的值被勾选
+
+
+
+
+Minor Customization
+
+	
+
+The supplier provides minor customization services such as logo, graphic, package
+
+	
+
+What design services are provided?
+Minor Customization项的值被勾选
+
+
+
+
+Flexible Customization
+
+	
+
+The supplier provides Flexible customization services for your Personalized requirements
+
+	
+
+What design services are provided?
+Flexible Customization项的值被勾选
+
+
+
+
+ODM Services
+
+	
+
+The supplier provides ODM services
+
+	
+
+ODM service available
+该项的值为：yes
+
+
+
+
+OEM Services
+
+	
+
+The supplier provides OEM services for popular brands
+
+	
+
+OEM for popular brands
+该项的值为：yes
+
+
+
+
+3D Software Design
+
+	
+
+The supplier provides 3D software design services
+
+	
+
+Do you provide 3D software design services？
+该项的值为：yes
+
+
+
+
+SDK Available
+
+	
+
+The supplier provides SDK
+
+	
+
+Is there SDK available?
+该项的值为：yes
+
+
+
+
+质量控制（Quality Control Capability）
+
+	
+
+Quality Assurance
+
+	
+
+The supplier provides quality assurance
+
+	
+
+Is there quality assurance？
+该项的值为：yes
+
+
+
+
+Raw-Materials Traceability
+
+	
+
+The supplier has traceability identification of raw materials
+
+	
+
+Is there traceability identification of raw materials?
+该项的值为：yes
+
+
+
+
+QA/QC Inspectors
+
+	
+
+The supplier has 【贵司QA及QC员工数】 QA and QC inspection staff.
+
+	
+
+Number of QA and QC inspection staff
+该项值>=1
+
+
+
+
+100% Finished Products Inspection
+
+	
+
+The supplier inspects 100% of finished products.
+
+	
+
+What type of inspection is used for finished products?
+该项选择100% inspection
+
+
+
+
+Standardized quality control
+
+	
+
+The supplier has a complete and standardized quality control process, check the Audit Report for more information
+
+	
+
+以下3个条件全部满足：
+1、Instructions available for incoming material inspections /testing，relevant records maintained（选1）
+2、necessary items /documents provided at appropriate location and under control（选1或2或3）
+3、written inspections /testing instructions available for finished products（选1）
+
+
+
+
+
+
+研发生产（R&D and production）
+
+	
+
+R&D Capabilities
+
+	
+
+The supplier has 【贵司研发工程师数】 R&D engineers, you can check the Audit Report for more information
+
+	
+
+1、There is/are __R＆D engineer(s) in the company
+该项值大于等于1
+2、What is the main job responsibility for R&D engineers？
+该项值不为空
+
+
+
+
+
+
+
+Production Process Visualization
+
+	
+
+You can check the supplier's production workflow chart or main facilities in the Audit Report
+
+	
+
+1、Number of production lines
+此项不为空
+2、Production Workflow Chart
+此项不为空
+3、Main Facilities
+此项不为空
+
+
+
+
+
+
+Private Mold
+
+	
+
+The supplier has private mold
+
+	
+
+Do you have a private mold?
+该项的值为：yes
+
+
+
+
+资质及认证（Qualifications and Certifications）
+
+	
+
+Management Certification
+
+	
+
+The supplier has quality management system certification, including:【贵司获得的管理认证清单】
+
+	
+
+Management system certification下至少有一个认证项（含Others）
+
+
+
+
+Product Certification
+
+	
+
+The supplier's products already have relevant certification qualifications, including:【贵司获得的产品认证清单】
+
+	
+
+Product Certification下至少有一个认证项（含Others）
+
+
+
+
+Recyclable Material Management
+
+	
+
+This supplier already has material recycling management system certification qualifications, including:【贵司获得的可回收材料管理体系认证】
+
+	
+
+Certification of recyclable material management system下至少有一个认证项
+
+
+
+
+Socially Responsibility Certification
+
+	
+
+The supplier has Social Responsibility Certification, including:【贵司通过的社会责任认证】
+
+	
+
+Social responsibility certification下至少有一个认证项
+
+
+
+
+Raw Materials Reports
+
+	
+
+The supplier has Raw Materials reports, including:【贵司获得的原材料检测报告】
+
+	
+
+Test Reports for Raw Materials下至少有一个报告项（含Others）
+
+
+
+
+其它（Others）
+
+	
+
+Environmental Protection
+
+	
+
+The supplier has relevant environmental protection qualifications, including:【贵司所具备的环保资质及能力】
+
+	
+
+1、Does the company have a factory environmental impact assessment report?
+2、Does the company have an EIA reply?
+3、Is the actual founding consistent with EIA acceptance comments?
+4、Does the company have a Pollution discharge permit?
+5、Does the company have Fixed pollution source pollution discharge registration?
+以上5项至少有一项值为Yes
+
+
+
+
+
+
+
+
+Digital Management Enterprise
+
+	
+
+
+The supplier enhances business efficiency through digitalization, which involves:【贵司所具备的数字化管理能力】
+
+	
+
+1、Has the enterprise started the construction of enterprise digitalization process at this stage?
+2、Has the enterprise established a technical transformation plan?
+3、Does the enterprise currently establish a database based on digital construction to effectively collect and monitor big data in real time?
+4、Does the enterprise establish and use ERP system to realize digital management of production, procurement, quality control, logistics and other processes?
+5、Does the enterprise establish and use OA system to manage all processes?
+6、Has the enterprise established a CRM system for customer relationship management?
+7、Has the enterprise established SAP system for the management of internal financial system?
+8、Has the enterprise established an AI model to process big data and achieve decision enabling management?
+以上8个问题有至少3项的值为Yes
+
+
+
+
+
+
+
+
+
+
+
+Standardized Supplier Management
+
+	
+
+The company established and implemented an effective suppliers’ assessment procedure and corrective & preventive actions mechanism
+
+	
+
+1、Does the company establish and implement an effective suppliers’ assessment procedure?选：
+Have the written procedures and followed records
+2、Are corrective & preventive actions mechanism established and implemented effectively (including the suppliers / sub-contractors control, incoming inspection, process control, final inspection and customer complaint)?选：
+Has the clear procedure and followed records
+3、Is there a clear procedure for handling customer complaints?选：
+Has the clear procedure and followed records
+以上三项全部满足
+
+
+
+
+
+
+分享至:
+加入我们
+在线咨询
+活动日历
+扫码关注
+焦点科技旗下产品：中国制造网 - 国际站 内贸站 新一站保险网 百卓采购网领动百分百物流网focusteach.com
+
+Copyright © 2026 焦点科技 版权所有
+
+访问和使用中国制造网国际站 即表明您完全接受和服从我们的 用户协议
+
+TradeMessenger
+Online
+Hi! Want more details about this product? Message me and I'll reply as soon as possible!
+Chat Now

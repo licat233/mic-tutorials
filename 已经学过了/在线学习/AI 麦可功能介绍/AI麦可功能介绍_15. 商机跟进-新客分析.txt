@@ -1,0 +1,7 @@
+# AI麦可功能介绍_15. 商机跟进-新客分析
+
+language=zh
+language_probability=1.000
+model=tiny
+
+[未识别到口播内容]

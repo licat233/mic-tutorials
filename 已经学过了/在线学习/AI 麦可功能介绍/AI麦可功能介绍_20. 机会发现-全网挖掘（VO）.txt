@@ -1,0 +1,7 @@
+# AI麦可功能介绍_20. 机会发现-全网挖掘（VO）
+
+language=zh
+language_probability=1.000
+model=tiny
+
+[未识别到口播内容]

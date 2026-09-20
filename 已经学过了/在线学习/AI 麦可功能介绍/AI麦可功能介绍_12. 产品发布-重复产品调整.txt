@@ -1,0 +1,7 @@
+# AI麦可功能介绍_12. 产品发布-重复产品调整
+
+language=zh
+language_probability=1.000
+model=tiny
+
+[未识别到口播内容]

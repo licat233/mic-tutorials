@@ -1,0 +1,7 @@
+# AI麦可功能介绍_3. 素材处理-视频生成（数字人讲解）
+
+language=zh
+language_probability=1.000
+model=tiny
+
+[00:01:25.360 - 00:01:27.560] 你把我放在你身上
